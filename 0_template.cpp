@@ -26,3 +26,13 @@ int32_t main()
  
 }
 }
+
+
+//ezy template
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+
+    
+}
